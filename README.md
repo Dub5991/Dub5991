@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**Dub5991/Dub5991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi there! I'm **Dub5991**, a passionate developer who thrives on building innovative solutions. I believe in continuous learning, collaboration, and pushing the boundaries of technology.
 
-Here are some ideas to get you started:
+- 🔭 **Currently working on:** Web applications, authentication systems, and scalable solutions.
+- 🌱 **Learning:** Advanced TypeScript, Firebase, and cloud-based architectures.
+- 💬 **Ask me about:** React, TypeScript, Firebase, and best practices in modern web development.
+- ⚡ **Fun fact:** I believe that _"As a man thinketh"_ defines the power of mindset in coding and life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, TypeScript, HTML, CSS
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Backend:** Firebase, Node.js, Express
+- **Tools:** Git, Vite, ESLint, Prettier
+- **Databases:** Firestore, PostgreSQL
+
+## 📌 Featured Projects
+### 🔐 Authentication_001
+A robust authentication system built with React, TypeScript, and Firebase.
+
+🔗 [View Repository](https://github.com/Dub5991/Authentication_001)
+
+### 🌐 EventSiteExample
+A dynamic event management site showcasing modern UI/UX principles.
+
+🔗 [View Repository](https://github.com/Dub5991/EventSiteExample)
+
+## 📫 Connect with Me
+- GitHub: [Dub5991](https://github.com/Dub5991)
+
+Let's build something amazing together! 🚀
