@@ -13,7 +13,7 @@ Hi there! I'm **Dub5991**, a passionate developer who thrives on building innova
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS
 - **Backend:** Firebase, Node.js, Express
 - **Tools:** Git, Vite, ESLint, Prettier
-- **Databases:** Firestore, PostgreSQL
+- **Databases:** Firestore, MySQL
 
 ## 📌 Featured Projects
 ### 🔐 Authentication_001
