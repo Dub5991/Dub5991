@@ -89,8 +89,7 @@ A dynamic event management site showcasing modern UI/UX principles.
 # 📊 GitHub Stats  
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Dub5991&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dub5991&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
