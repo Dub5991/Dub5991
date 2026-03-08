@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=30&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Python+%7C+JavaScript+%7C+Systems+Builder;Neon+Cyberpunk+Developer+Vibes;Always+Learning.+Always+Improving." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=30&center=true&vCenter=true&width=750&lines=AI+Engineer;Python+%7C+JavaScript+%7C+Systems+Builder;Building+Intelligent+Systems;Shipping+Real+Projects." />
 </div>
 
 ---
 
-# 👋 Hi, I’m Dustin  
+# 👋 Hi, I’m Dustin
 **Developer • Engineer • AI‑Focused**
 
-I build modern systems using **Python**, **JavaScript**, and clean architectural patterns.  
-My direction is **AI Engineering**, supported by structured learning and hands‑on projects.
+I build modern systems using **Python**, **JavaScript**, and clean architectural patterns.
+My focus is **AI Engineering** — integrating large language models and intelligent tooling into real, working products.
 
-I’ve completed multiple advanced courses and projects through **Udemy**, and I’m currently studying AI Engineering through **Simplilearn’s AI Engineer program**, which was **created in partnership with Microsoft**.
+I’ve completed multiple advanced courses through **Udemy** and am working through **Simplilearn’s AI Engineer program**, built in partnership with **Microsoft**, with an emphasis on applied AI, ML workflows, and intelligent system design.
 
 ---
 
@@ -47,9 +47,12 @@ _Modular. Expandable. AI‑Ready._
 - MySQL  
 
 ## **AI & Data**
-- Python  
-- NumPy  
-- Pandas  
+- Python
+- NumPy
+- Pandas
+- Claude API (Anthropic)
+- OpenAI API
+- Hugging Face
 
 ## **Tools**
 - Git  
