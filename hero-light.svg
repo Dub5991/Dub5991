@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Dustin — Software engineer and AI systems">
+  <text x="600" y="185" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="92" font-weight="600" letter-spacing="-2.5" fill="#1d1d1f">Dustin</text>
+  <text x="600" y="236" text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+        font-size="23" font-weight="500" letter-spacing="6" fill="#6e6e73">SOFTWARE ENGINEER &#183; AI SYSTEMS</text>
+</svg>
