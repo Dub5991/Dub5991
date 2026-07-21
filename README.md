@@ -1,62 +1,49 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&size=30&center=true&vCenter=true&width=750&lines=AI+Engineer+in+Progress;Python+%7C+JavaScript+%7C+Systems+Builder;Neon+Cyberpunk+Developer+Vibes;Always+Learning.+Always+Improving." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hero-dark.svg">
+  <img alt="Dustin — Software engineer · AI systems" src="hero-light.svg" width="720">
+</picture>
 </div>
-
+<br>
+I build production-shaped software with Python and TypeScript, and I design systems where AI does real work — client operations, billing, feedback loops — not demos. I ship with tests and clean architecture, and I run Durwood Studios to prove it in public.
+ 
+### Selected work
+ 
+**[Freelance_Dev](https://github.com/Dub5991/Freelance_Dev)** · Python · MIT
+An operating system for freelance engineers — Claude-driven client management, Stripe billing automation, task sync, and business intelligence. Built by a dev, for devs.
+ 
+**[durwood-studios-os](https://github.com/Dub5991/durwood-studios-os)** · JavaScript
+The studio's own operating layer. The rest of the work runs on top of it.
+ 
+**[document-library-explorer](https://github.com/Dub5991/document-library-explorer)** · TypeScript
+Document library and retrieval interface.
+ 
+**[AI Calculation Engine](https://github.com/Dub5991/Ai-Calculator)** · Python
+Modular compute engine — operations, activation and loss functions, CLI and GUI, automated test suite.
+ 
+### Stack
+ 
+| Area | Stack |
+|------|-------|
+| Languages | Python · TypeScript · JavaScript |
+| Frontend | React · Next.js · TailwindCSS · Zustand · Framer Motion |
+| Backend | Node.js · Express · FastAPI · Firebase · Supabase |
+| Data | PostgreSQL · Firestore · MySQL · IndexedDB · NumPy · Pandas |
+| AI | Claude · local models · RAG · agentic workflows · MCP |
+| Payments | Stripe |
+| Infra | Docker · GitHub Actions · Vercel · OpenTelemetry |
+| Tooling | Git · Vite · ESLint · Prettier · TypeScript (strict) |
+ 
+### Credentials
+ 
+[AI Engineer — Simplilearn, in partnership with Microsoft](https://success.simplilearn.com/180559919)
+ 
 ---
-
-# 👋 Hi, I’m Dustin  
-**Developer • Engineer • AI‑Focused**
-
-I build modern systems using **Python**, **JavaScript**, and clean architectural patterns.  
-My direction is **AI Engineering**, supported by structured learning and hands‑on projects.
-
-I’ve completed multiple advanced courses and projects through **Udemy**, and I’m currently studying AI Engineering through **Simplilearn’s AI Engineer program**, which was **created in partnership with Microsoft**.
-
----
-
-# ⚡ Featured Project  
-## **AI Calculation Engine**
-A modular Python‑based engine featuring:
-
-- 18+ mathematical operations  
-- Activation & loss functions  
-- CLI + GUI interfaces  
-- 90+ automated tests  
-- Clean, scalable architecture  
-
-🔗 **Repo:** https://github.com/Dub5991/Ai-Calculator
-
----
-
-# ⚙️ Tech Stack  
-_Modular. Expandable. AI‑Ready._
-
-## **Frontend**
-- React  
-- Next.js  
-- TypeScript  
-- TailwindCSS  
-
-## **Backend**
-- Node.js  
-- Express  
-- Firebase  
-
-## **Databases**
-- Firestore  
-- MySQL  
-
-## **AI & Data**
-- Python  
-- NumPy  
-- Pandas  
-
-## **Tools**
-- Git  
-- Vite  
-- ESLint  
-- Prettier  
-
+ 
+<div align="center">
+<a href="https://github.com/Dub5991">github.com/Dub5991</a>
+</div>
+ 
 ---
 
 # 📌 Projects
